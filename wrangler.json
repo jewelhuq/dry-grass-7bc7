@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "dry-grass-7bc7",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c4da9668-ad3e-4aa4-a728-54c291702f1d",
+      "database_name": "frosty-snowflake-c765-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
